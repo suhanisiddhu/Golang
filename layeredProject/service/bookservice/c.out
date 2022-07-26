@@ -1,0 +1,26 @@
+mode: set
+layeredProject/service/bookservice/bookservice.go:16.46,18.2 1 1
+layeredProject/service/bookservice/bookservice.go:20.116,22.16 2 1
+layeredProject/service/bookservice/bookservice.go:26.2,26.19 1 1
+layeredProject/service/bookservice/bookservice.go:22.16,24.3 1 0
+layeredProject/service/bookservice/bookservice.go:29.87,30.13 1 1
+layeredProject/service/bookservice/bookservice.go:34.2,35.16 2 1
+layeredProject/service/bookservice/bookservice.go:39.2,39.18 1 1
+layeredProject/service/bookservice/bookservice.go:30.13,32.3 1 0
+layeredProject/service/bookservice/bookservice.go:35.16,37.3 1 0
+layeredProject/service/bookservice/bookservice.go:42.97,43.81 1 0
+layeredProject/service/bookservice/bookservice.go:47.2,48.26 2 0
+layeredProject/service/bookservice/bookservice.go:52.2,54.19 2 0
+layeredProject/service/bookservice/bookservice.go:43.81,45.3 1 0
+layeredProject/service/bookservice/bookservice.go:48.26,50.3 1 0
+layeredProject/service/bookservice/bookservice.go:57.104,58.108 1 1
+layeredProject/service/bookservice/bookservice.go:62.2,63.27 2 1
+layeredProject/service/bookservice/bookservice.go:67.2,69.19 2 0
+layeredProject/service/bookservice/bookservice.go:58.108,60.3 1 0
+layeredProject/service/bookservice/bookservice.go:63.27,65.3 1 0
+layeredProject/service/bookservice/bookservice.go:72.76,73.12 1 1
+layeredProject/service/bookservice/bookservice.go:77.2,78.27 2 1
+layeredProject/service/bookservice/bookservice.go:82.2,82.15 1 1
+layeredProject/service/bookservice/bookservice.go:73.12,75.3 1 0
+layeredProject/service/bookservice/bookservice.go:78.27,80.3 1 0
+layeredProject/service/bookservice/bookservice.go:85.48,89.2 2 1
